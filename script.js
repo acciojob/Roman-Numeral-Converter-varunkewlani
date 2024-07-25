@@ -22,6 +22,7 @@ function convertToRoman(num) {
             num -= obj[i][1];
         }
 	}
+	console.log(result)
 
   //your code here
 
